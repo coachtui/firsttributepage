@@ -1,0 +1,47 @@
+body {
+    background: black;
+    color: white;
+    font-family: futura;
+  }
+
+#img-caption 
+{
+  width: 700px; 
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:100%;
+  height: auto;
+}
+
+#tribute-info
+{
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tribute-link
+{
+  max-width:50%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
+li {
+  list-style: none;
+}
+
+.list{
+    font-display: center;
+}
